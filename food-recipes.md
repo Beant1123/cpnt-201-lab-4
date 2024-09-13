@@ -54,9 +54,9 @@ Instructions:
 Ingredients:
 - 1 pound spaghetti
 - 1 pound ground beef
-- 1/2 cup bread crumbs
+- 1/2 cup bread crumbs, 
 - 1 cup spicy sauce
-- 1/4 cup milk
+- 1/4 cup milk,cream
 - 1/4 cup grated Parmesan cheese
 - 1 egg
 - 2 cloves garlic, minced
@@ -77,7 +77,7 @@ Instructions:
 
 Ingredients:
 - 2 boneless, skinless chicken breasts
-- Salt and pepper to taste
+- Salt and pepper and spices to taste
 - 2 tablespoons olive oil
 - 4 slices Swiss cheese
 - 4 hamburger buns
@@ -118,6 +118,19 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Noodles
+- 3 cups of water
+- 4 packets of noodles
+- 1 tsp salt
+- 1 tsp papper
+
+Instructions:
+
+1. preheat oven at 250 degree
+2. put all things together
+3. let rest on 15 mintues
+
 
 ### Banana bread
 
