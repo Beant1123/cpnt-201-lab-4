@@ -55,6 +55,7 @@ Ingredients:
 - 1 pound spaghetti
 - 1 pound ground beef
 - 1/2 cup bread crumbs
+- 1 cup spicy sauce
 - 1/4 cup milk
 - 1/4 cup grated Parmesan cheese
 - 1 egg
